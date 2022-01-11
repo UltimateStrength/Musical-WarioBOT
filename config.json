@@ -1,9 +1,0 @@
-{
-    "TOKEN_DISCORD": "######",
-
-    "GOOGLE_KEY": "######",
-
-    "YTDL": {
-        "filter": "audioonly"
-    }
-}
